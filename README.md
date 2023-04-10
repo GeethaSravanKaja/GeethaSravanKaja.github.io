@@ -6,7 +6,7 @@
 # To Do List
 
 
-#### This web page is hosted [here!]file:///C:/Users/hp/Downloads/ToDoList-master/ToDoList-master/index.html
+#### This web page is hosted [here!]https://tusharjustdoit.netlify.app/
 
 ### *Features*:
 
